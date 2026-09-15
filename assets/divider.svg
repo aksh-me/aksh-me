@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 40" width="1000" height="40" role="presentation">
+  <defs>
+    <linearGradient id="fade" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0">
+      <stop offset="0"    stop-color="#B08D57" stop-opacity="0"/>
+      <stop offset="0.3"  stop-color="#B08D57" stop-opacity="0.9"/>
+      <stop offset="0.5"  stop-color="#B08D57" stop-opacity="1"/>
+      <stop offset="0.7"  stop-color="#B08D57" stop-opacity="0.9"/>
+      <stop offset="1"    stop-color="#B08D57" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- hairline, broken in the centre for the glyph -->
+  <rect x="0"   y="19.3" width="470" height="1.4" fill="url(#fade)"/>
+  <rect x="530" y="19.3" width="470" height="1.4" fill="url(#fade)"/>
+
+  <!-- lens iris -->
+  <g transform="translate(500 20)" fill="none" stroke="#B08D57" stroke-width="1.6" stroke-linejoin="round">
+    <polygon points="0,-9 7.8,-4.5 7.8,4.5 0,9 -7.8,4.5 -7.8,-4.5"/>
+    <polygon points="0,-4.6 4,-2.3 4,2.3 0,4.6 -4,2.3 -4,-2.3" stroke-opacity="0.55"/>
+  </g>
+  <circle cx="500" cy="20" r="1.4" fill="#B08D57"/>
+</svg>
