@@ -79,7 +79,7 @@ It means you aren't stitching together a designer, a developer and a photographe
 
 ## Also
 
-Petroleum engineering student at **Memorial University of Newfoundland** — wellbore analysis, inflow performance, multiphase flow. Engineering taught me to model a messy real-world system and stay honest about the assumptions, which turns out to be most of what building software is.
+MSc Computer Science student at **Memorial University of Newfoundland**, in St. John's.
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
